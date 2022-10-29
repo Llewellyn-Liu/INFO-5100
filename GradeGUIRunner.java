@@ -11,16 +11,10 @@ public class GradeGUIRunner {
 
     public static void main(String[] args) {
         //WeightedGrade.java is NEEDED for operation
-//        SwingUtilities.invokeLater(new Runnable() {
-//            public void run() {
-//                GradeGUI.prepareGUI();
-//            }
-//        });
-        WeightedGrade wg = new WeightedGrade();
-        wg.setPointTotal(100);
-        wg.setEarnedPoints(85);
-        wg.setAssignmentPercentage(0.25);
-
-        System.out.println(wg.calculate());
+        SwingUtilities.invokeLater(new Runnable() {
+            public void run() {
+                GradeGUI.prepareGUI();
+            }
+        });
     }
 }
