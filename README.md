@@ -10,7 +10,15 @@ Please download the files:
 · WeightedGradeRun.java (For exectution)
 
 Notice: I just checked the criteria and found the percentage should be input in Integer, but I read Double in my program. Please double check when input the percentages, thanks!
+---
 
+Oct 28 2022 Expanation on Assignment 3
+
+Please download the files:
+· WeightedGrade.java
+· WeightedGradeEnhanced2.java
+· WeightedGradeRunner.java
+---
 
 Oct 28 2022 Assignment 6
 
