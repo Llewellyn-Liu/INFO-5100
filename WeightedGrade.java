@@ -1,6 +1,6 @@
 /**
  * Info 5101 - Section 8
- * Assignment 2
+ * Assignment 6
  * Author: Runlin Liu
  *
  */
@@ -13,7 +13,6 @@ public class WeightedGrade {
 
     private double assignmentPercentage;
 
-    private double totalWeightGrade;
 
     //Setters and getters
     public int getPointTotal() {
@@ -40,13 +39,6 @@ public class WeightedGrade {
         this.assignmentPercentage = assignmentPercentage;
     }
 
-    public double getTotalWeightGrade() {
-        return totalWeightGrade;
-    }
-
-    public void setTotalWeightGrade(double totalWeightGrade) {
-        this.totalWeightGrade = totalWeightGrade;
-    }
 
     //Methods
     public double calculate(){
