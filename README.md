@@ -28,3 +28,23 @@ Please download the files:
 · WeightedGrade.java
 · GradeGUI.java
 · GradeGUIRunner.java
+
+---
+
+Nov 4 2022 Assignment 7
+
+Please download the files:
+· annual.csv
+· GradeGUI3.java
+· GradeGUI3Runner.java
+
+User guide:
+for lab task:
+  -> Choose a file in the File Reader tab
+  -> The file shows up in the table
+  -> Press "Copy to File Writer" button to copy the file into File Writer tab
+  (alternative: switch to the File Writer tab and choose the file again) 
+  -> Switch to the File Writer tab
+  -> Alter the data
+  -> Press "Save" to save the file (input the new file name before save if modification is needed)
+  -> Finish
