@@ -48,3 +48,10 @@ for lab task:
   -> Alter the data
   -> Press "Save" to save the file (input the new file name before save if modification is needed)
   -> Finish
+
+---
+Nov 14 My Github Account Name Updated
+
+I chose a better name for my account instead of the old weird one.
+
+---
